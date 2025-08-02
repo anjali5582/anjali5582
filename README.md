@@ -25,3 +25,9 @@ I am passionate about applying my technical skills to innovative projects within
 I aim to leverage these skills to enrich team environments through effective and concise communication while contributing to project goals. I look forward to connecting with professionals and organizations that share my enthusiasm for technology and learning through internships or research opportunities.
 
 
+## Projects
+
+Predicting Life Ladder
+This project focuses on predicting the Life Ladder, a measure of subjective well being or life satisfaction using socioeconomic and health related data from multiple countries. The goal is to build a robust machine learning model that accurately estimates life satisfaction scores based on features like GDP per capita, healthy life expectancy, social support, and more.
+
+
