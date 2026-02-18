@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Linkedin: www.linkedin.com/in/anjali-amin586
+[Linkedin](www.linkedin.com/in/anjali-amin586)
 
 ## About Me😊
 
@@ -27,11 +27,13 @@ I aim to leverage these skills to enrich team environments through effective and
 
 ## Projects
 
+[Pennywise - A Financial literacy LLM](https://github.com/RealAndrewRen/Pennywise)
+
 Predicting Life Ladder (Private):
 This project focuses on predicting the Life Ladder, a measure of subjective well being or life satisfaction using socioeconomic and health related data from multiple countries. The goal is to build a robust machine learning model that accurately estimates life satisfaction scores based on features like GDP per capita, healthy life expectancy, social support, and more.
 
 Predicting an Airbnb Superhost (Private):
-This project aims to predict whether an Airbnb host is a Superhost based on various listing and host features. Using the Airbnb listings dataset, a logistic regression model is developed, tuned, and evaluated to accurately classify hosts as Superhosts or not. The project demonstrates the full machine learning lifecycle focusing on model evaluation and selection.
+This project aims to predict whether an Airbnb host is a Superhost based on various listing and host features. Using the Airbnb listings dataset, a logistic regression model was developed, tuned, and evaluated to accurately classify hosts as Superhosts or not. The project demonstrates the full machine learning lifecycle focusing on model evaluation and selection.
 
 
 
